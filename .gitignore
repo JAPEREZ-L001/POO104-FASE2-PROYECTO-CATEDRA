@@ -1,0 +1,60 @@
+# Archivos de compilación y temporales
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+*.log
+
+# Archivos de usuario y configuración local de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de publicación y paquetes
+*.publish.xml
+*.dbmdl
+*.pdb
+*.cache
+*.zip
+*.nupkg
+
+# Archivos de configuración de Rider y VS Code
+.idea/
+.vscode/
+
+# Archivos de dependencias NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Archivos de configuración de test y resultados
+TestResults/
+*.TestResults
+*.trx
+*.coverage
+*.coveragexml
+
+# Archivos de configuración de WPF y Blend
+*.Blend.*
+*.g.*
+*.i.*
+Generated_Code/
+
+# Archivos de respaldo y temporales del sistema operativo
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Archivos de configuración de usuario de Windows
+*.userprefs
+
+# Otros archivos innecesarios
+_ReSharper*/
+*.resharper
+*.DotSettings.user
