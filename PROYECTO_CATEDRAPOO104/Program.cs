@@ -13,7 +13,7 @@ namespace PROYECTO_CATEDRAPOO104
             ApplicationConfiguration.Initialize();
             Application.Run(new FrmBusquedaHoteles());
 
-            Application.Run(new Form1());
+            Application.Run(new FrmComentarios());
         }
     }
 }
